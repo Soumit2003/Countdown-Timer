@@ -6,3 +6,5 @@ A simple JavaScript-based countdown timer with pause, resume, and reset function
 - Start / Pause / Resume / Reset
 - Styled with minimal CSS
 - Live countdown display
+  
+https://soumit2003.github.io/Countdown-Timer/
