@@ -1,0 +1,26 @@
+body{
+    background-color:#121212 ;
+    color: #e0e0e0;
+    font-weight: 400;
+    font-size:4rem;
+
+    padding:50px;
+
+}
+
+.style-input{
+    margin-bottom:50px;
+    margin-top:50px;
+    padding:20px;
+}
+
+.style-button{
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 20px;
+    background-color: #555;
+    transition: 0.5;
+}
+.style-button:hover{
+    background-color:#0056b3;
+}
